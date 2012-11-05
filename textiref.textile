@@ -1,0 +1,36 @@
+bc. h1. Isto é um título ("header") nível 1
+h1. Isto é um título ("header") nível 1
+bc. h2. Isto é um título ("header") nível 2
+h3. Isto é um título ("header") nível 2
+bc. h2. Isto é um título ("header") nível 3
+h3. Isto é um título ("header") nível 2
+
+bc. *bold*
+*bold*
+bc. __itálico__
+__itálico__
+bc. -texto apagado-
+-texto apagado-
+bc. +sublinhado+
++sublinhado+ 
+bc. ^texto alto^
+^texto alto^
+bc. ~texto baixo~
+~texto baixo~
+
+bc. groupbuddies(tm)
+groupbuddies(tm)
+bc. groupbuddies(r)
+groupbuddies(r)
+bc. groupbuddies(c)
+groupbuddies(c)
+
+*Alinhamento de texto*
+bc. > à direita
+> à direita
+bc. < à esquerda
+< à esquerda
+bc. = centrado
+= centrado
+bc. <> justificado
+<> justificado
